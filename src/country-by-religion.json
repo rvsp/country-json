@@ -1,978 +1,962 @@
 [
     {
         "country": "Afghanistan",
-        "population": 37172386
+        "religion": "Islam"
     },
     {
         "country": "Albania",
-        "population": 2866376
+        "religion": "Islam"
     },
     {
         "country": "Algeria",
-        "population": 42228429
+        "religion": "Islam"
     },
     {
         "country": "American Samoa",
-        "population": 55465
+        "religion": "Christianity"
     },
     {
         "country": "Andorra",
-        "population": 77006
+        "religion": "Christianity"
     },
     {
         "country": "Angola",
-        "population": 30809762
+        "religion": "Christianity"
     },
     {
         "country": "Anguilla",
-        "population": 15094
-    },
-    {
-        "country": "Antarctica",
-        "population": 1106
+        "religion": "Christianity"
     },
     {
         "country": "Antigua and Barbuda",
-        "population": 96286
+        "religion": "Christianity"
     },
     {
         "country": "Argentina",
-        "population": 44494502
+        "religion": "Christianity"
     },
     {
         "country": "Armenia",
-        "population": 2951776
+        "religion": "Christianity"
     },
     {
         "country": "Aruba",
-        "population": 105845
+        "religion": "Christianity"
+    },
+    {
+        "country": "Asia-Pacific",
+        "religion": "Hinduism"
     },
     {
         "country": "Australia",
-        "population": 24982688
+        "religion": "Christianity"
     },
     {
         "country": "Austria",
-        "population": 8840521
+        "religion": "Christianity"
     },
     {
         "country": "Azerbaijan",
-        "population": 9939800
+        "religion": "Islam"
     },
     {
         "country": "Bahamas",
-        "population": 385640
+        "religion": "Christianity"
     },
     {
         "country": "Bahrain",
-        "population": 1569439
+        "religion": "Islam"
     },
     {
         "country": "Bangladesh",
-        "population": 161356039
+        "religion": "Islam"
     },
     {
         "country": "Barbados",
-        "population": 286641
+        "religion": "Christianity"
     },
     {
         "country": "Belarus",
-        "population": 9483499
+        "religion": "Christianity"
     },
     {
         "country": "Belgium",
-        "population": 11433256
+        "religion": "Christianity"
     },
     {
         "country": "Belize",
-        "population": 383071
+        "religion": "Christianity"
     },
     {
         "country": "Benin",
-        "population": 11485048
+        "religion": "Christianity"
     },
     {
         "country": "Bermuda",
-        "population": 63973
+        "religion": "Christianity"
     },
     {
         "country": "Bhutan",
-        "population": 754394
+        "religion": "Buddhism"
     },
     {
         "country": "Bolivia",
-        "population": 11353142
+        "religion": "Christianity"
     },
     {
         "country": "Bosnia and Herzegovina",
-        "population": 3323929
+        "religion": "Christianity"
     },
     {
         "country": "Botswana",
-        "population": 2254126
-    },
-    {
-        "country": "Bouvet Island",
-        "population": 0
+        "religion": "Christianity"
     },
     {
         "country": "Brazil",
-        "population": 209469333
+        "religion": "Christianity"
     },
     {
-        "country": "British Indian Ocean Territory",
-        "population": 0
+        "country": "British Virgin Islands",
+        "religion": "Christianity"
     },
     {
         "country": "Brunei",
-        "population": 428962
+        "religion": "Islam"
     },
     {
         "country": "Bulgaria",
-        "population": 7025037
+        "religion": "Christianity"
     },
     {
         "country": "Burkina Faso",
-        "population": 19751535
+        "religion": "Islam"
     },
     {
         "country": "Burundi",
-        "population": 11175378
+        "religion": "Christianity"
     },
     {
         "country": "Cambodia",
-        "population": 16249798
+        "religion": "Buddhism"
     },
     {
         "country": "Cameroon",
-        "population": 25216237
+        "religion": "Christianity"
     },
     {
         "country": "Canada",
-        "population": 37057765
+        "religion": "Christianity"
     },
     {
         "country": "Cape Verde",
-        "population": 543767
+        "religion": "Christianity"
+    },
+    {
+        "country": "Caribbean Netherlands",
+        "religion": "Christianity"
     },
     {
         "country": "Cayman Islands",
-        "population": 64174
+        "religion": "Christianity"
     },
     {
         "country": "Central African Republic",
-        "population": 4666377
+        "religion": "Christianity"
     },
     {
         "country": "Chad",
-        "population": 15477751
+        "religion": "Islam"
+    },
+    {
+        "country": "Channel Islands",
+        "religion": "Christianity"
     },
     {
         "country": "Chile",
-        "population": 18729160
+        "religion": "Christianity"
     },
     {
         "country": "China",
-        "population": 1392730000
-    },
-    {
-        "country": "Christmas Island",
-        "population": 1402
-    },
-    {
-        "country": "Cocos (Keeling) Islands",
-        "population": 596
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "Colombia",
-        "population": 49648685
+        "religion": "Christianity"
     },
     {
         "country": "Comoros",
-        "population": 832322
+        "religion": "Islam"
     },
     {
         "country": "Congo",
-        "population": 5244363
+        "religion": "Christianity"
     },
     {
         "country": "Cook Islands",
-        "population": 17379
+        "religion": "Christianity"
     },
     {
         "country": "Costa Rica",
-        "population": 4999441
+        "religion": "Christianity"
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "religion": "Christianity"
     },
     {
         "country": "Croatia",
-        "population": 4087843
+        "religion": "Christianity"
     },
     {
         "country": "Cuba",
-        "population": 11338138
+        "religion": "Christianity"
+    },
+    {
+        "country": "Curacao",
+        "religion": "Christianity"
     },
     {
         "country": "Cyprus",
-        "population": 1189265
+        "religion": "Christianity"
     },
     {
         "country": "Czech Republic",
-        "population": 10629928
+        "religion": "Unaffiliated Religions"
+    },
+    {
+        "country": "Democratic Republic of Congo",
+        "religion": "Christianity"
     },
     {
         "country": "Denmark",
-        "population": 5793636
+        "religion": "Christianity"
     },
     {
         "country": "Djibouti",
-        "population": 958920
+        "religion": "Islam"
     },
     {
         "country": "Dominica",
-        "population": 71625
+        "religion": "Christianity"
     },
     {
         "country": "Dominican Republic",
-        "population": 10627165
-    },
-    {
-        "country": "East Timor",
-        "population": 1267972
+        "religion": "Christianity"
     },
     {
         "country": "Ecuador",
-        "population": 17084357
+        "religion": "Christianity"
     },
     {
         "country": "Egypt",
-        "population": 98423595
+        "religion": "Islam"
     },
     {
         "country": "El Salvador",
-        "population": 6420744
-    },
-    {
-        "country": "England",
-        "population": 55619400
+        "religion": "Christianity"
     },
     {
         "country": "Equatorial Guinea",
-        "population": 1308974
+        "religion": "Christianity"
     },
     {
         "country": "Eritrea",
-        "population": 3213972
+        "religion": "Christianity"
     },
     {
         "country": "Estonia",
-        "population": 1321977
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "Ethiopia",
-        "population": 109224559
+        "religion": "Christianity"
+    },
+    {
+        "country": "Europe",
+        "religion": "Christianity"
+    },
+    {
+        "country": "Faeroe Islands",
+        "religion": "Christianity"
     },
     {
         "country": "Falkland Islands",
-        "population": 2840
+        "religion": "Christianity"
     },
     {
-        "country": "Faroe Islands",
-        "population": 48497
-    },
-    {
-        "country": "Fiji Islands",
-        "population": 883483
+        "country": "Fiji",
+        "religion": "Christianity"
     },
     {
         "country": "Finland",
-        "population": 5515525
+        "religion": "Christianity"
     },
     {
         "country": "France",
-        "population": 66977107
+        "religion": "Christianity"
     },
     {
         "country": "French Guiana",
-        "population": 290691
+        "religion": "Christianity"
     },
     {
         "country": "French Polynesia",
-        "population": 277679
-    },
-    {
-        "country": "French Southern territories",
-        "population": 0
+        "religion": "Christianity"
     },
     {
         "country": "Gabon",
-        "population": 2119275
+        "religion": "Christianity"
     },
     {
         "country": "Gambia",
-        "population": 2280102
+        "religion": "Islam"
     },
     {
         "country": "Georgia",
-        "population": 3726549
+        "religion": "Christianity"
     },
     {
         "country": "Germany",
-        "population": 82905782
+        "religion": "Christianity"
     },
     {
         "country": "Ghana",
-        "population": 29767108
+        "religion": "Christianity"
     },
     {
         "country": "Gibraltar",
-        "population": 33718
+        "religion": "Christianity"
     },
     {
         "country": "Greece",
-        "population": 10731726
+        "religion": "Christianity"
     },
     {
         "country": "Greenland",
-        "population": 56025
+        "religion": "Christianity"
     },
     {
         "country": "Grenada",
-        "population": 111454
+        "religion": "Christianity"
     },
     {
         "country": "Guadeloupe",
-        "population": 395700
+        "religion": "Christianity"
     },
     {
         "country": "Guam",
-        "population": 165768
+        "religion": "Christianity"
     },
     {
         "country": "Guatemala",
-        "population": 17247807
+        "religion": "Christianity"
     },
     {
         "country": "Guinea",
-        "population": 12414318
+        "religion": "Islam"
     },
     {
         "country": "Guinea-Bissau",
-        "population": 1874309
+        "religion": "Islam"
     },
     {
         "country": "Guyana",
-        "population": 779004
+        "religion": "Christianity"
     },
     {
         "country": "Haiti",
-        "population": 11123176
-    },
-    {
-        "country": "Heard Island and McDonald Islands",
-        "population": 0
-    },
-    {
-        "country": "Holy See (Vatican City State)",
-        "population": 825
+        "religion": "Christianity"
     },
     {
         "country": "Honduras",
-        "population": 9587522
+        "religion": "Christianity"
     },
     {
         "country": "Hong Kong",
-        "population": 7451000
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "Hungary",
-        "population": 9775564
+        "religion": "Christianity"
     },
     {
         "country": "Iceland",
-        "population": 352721
+        "religion": "Christianity"
     },
     {
         "country": "India",
-        "population": 1352617328
+        "religion": "Hinduism"
     },
     {
         "country": "Indonesia",
-        "population": 267663435
+        "religion": "Islam"
     },
     {
         "country": "Iran",
-        "population": 81800269
+        "religion": "Islam"
     },
     {
         "country": "Iraq",
-        "population": 38433600
+        "religion": "Islam"
     },
     {
         "country": "Ireland",
-        "population": 4867309
+        "religion": "Christianity"
+    },
+    {
+        "country": "Isle of Man",
+        "religion": "Christianity"
     },
     {
         "country": "Israel",
-        "population": 8882800
+        "religion": "Judaism"
     },
     {
         "country": "Italy",
-        "population": 60421760
-    },
-    {
-        "country": "Ivory Coast",
-        "population": 25069229
+        "religion": "Christianity"
     },
     {
         "country": "Jamaica",
-        "population": 2934855
+        "religion": "Christianity"
     },
     {
         "country": "Japan",
-        "population": 126529100
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "Jordan",
-        "population": 9956011
+        "religion": "Islam"
     },
     {
         "country": "Kazakhstan",
-        "population": 18272430
+        "religion": "Islam"
     },
     {
         "country": "Kenya",
-        "population": 51393010
+        "religion": "Christianity"
     },
     {
         "country": "Kiribati",
-        "population": 115847
+        "religion": "Christianity"
+    },
+    {
+        "country": "Kosovo",
+        "religion": "Islam"
     },
     {
         "country": "Kuwait",
-        "population": 4137309
+        "religion": "Islam"
     },
     {
         "country": "Kyrgyzstan",
-        "population": 6322800
+        "religion": "Islam"
     },
     {
         "country": "Laos",
-        "population": 7061507
+        "religion": "Buddhism"
+    },
+    {
+        "country": "Latin America-Caribbean",
+        "religion": "Christianity"
     },
     {
         "country": "Latvia",
-        "population": 1927174
+        "religion": "Christianity"
     },
     {
         "country": "Lebanon",
-        "population": 6848925
+        "religion": "Islam"
     },
     {
         "country": "Lesotho",
-        "population": 2108132
+        "religion": "Christianity"
     },
     {
         "country": "Liberia",
-        "population": 4818977
+        "religion": "Christianity"
     },
     {
-        "country": "Libyan Arab Jamahiriya",
-        "population": 6678567
+        "country": "Libya",
+        "religion": "Islam"
     },
     {
         "country": "Liechtenstein",
-        "population": 37910
+        "religion": "Christianity"
     },
     {
         "country": "Lithuania",
-        "population": 2801543
+        "religion": "Christianity"
     },
     {
         "country": "Luxembourg",
-        "population": 607950
+        "religion": "Christianity"
     },
     {
         "country": "Macao",
-        "population": 631636
+        "religion": "Folk Religions"
     },
     {
-        "country": "North Macedonia",
-        "population": 2084367
+        "country": "Macedonia",
+        "religion": "Christianity"
     },
     {
         "country": "Madagascar",
-        "population": 26262368
+        "religion": "Christianity"
     },
     {
         "country": "Malawi",
-        "population": 18143315
+        "religion": "Christianity"
     },
     {
         "country": "Malaysia",
-        "population": 31528585
+        "religion": "Islam"
     },
     {
         "country": "Maldives",
-        "population": 515696
+        "religion": "Islam"
     },
     {
         "country": "Mali",
-        "population": 19077690
+        "religion": "Islam"
     },
     {
         "country": "Malta",
-        "population": 484630
+        "religion": "Christianity"
     },
     {
         "country": "Marshall Islands",
-        "population": 58413
+        "religion": "Christianity"
     },
     {
         "country": "Martinique",
-        "population": 376480
+        "religion": "Christianity"
     },
     {
         "country": "Mauritania",
-        "population": 4403319
+        "religion": "Islam"
     },
     {
         "country": "Mauritius",
-        "population": 1265303
+        "religion": "Hinduism"
     },
     {
         "country": "Mayotte",
-        "population": 270372
+        "religion": "Islam"
     },
     {
         "country": "Mexico",
-        "population": 126190788
+        "religion": "Christianity"
     },
     {
-        "country": "Micronesia, Federated States of",
-        "population": 112640
+        "country": "Micronesia (country)",
+        "religion": "Christianity"
+    },
+    {
+        "country": "Middle East-North Africa",
+        "religion": "Islam"
     },
     {
         "country": "Moldova",
-        "population": 2706049
+        "religion": "Christianity"
     },
     {
         "country": "Monaco",
-        "population": 38682
+        "religion": "Christianity"
     },
     {
         "country": "Mongolia",
-        "population": 3170208
+        "religion": "Buddhism"
     },
     {
         "country": "Montenegro",
-        "population": 631219
+        "religion": "Christianity"
     },
     {
         "country": "Montserrat",
-        "population": 5900
+        "religion": "Christianity"
     },
     {
         "country": "Morocco",
-        "population": 36029138
+        "religion": "Islam"
     },
     {
         "country": "Mozambique",
-        "population": 29495962
+        "religion": "Christianity"
     },
     {
         "country": "Myanmar",
-        "population": 53708395
+        "religion": "Buddhism"
     },
     {
         "country": "Namibia",
-        "population": 2448255
+        "religion": "Christianity"
     },
     {
         "country": "Nauru",
-        "population": 12704
+        "religion": "Christianity"
     },
     {
         "country": "Nepal",
-        "population": 28087871
+        "religion": "Hinduism"
     },
     {
         "country": "Netherlands",
-        "population": 17231624
-    },
-    {
-        "country": "Netherlands Antilles",
-        "population": 227049
+        "religion": "Christianity"
     },
     {
         "country": "New Caledonia",
-        "population": 284060
+        "religion": "Christianity"
     },
     {
         "country": "New Zealand",
-        "population": 4841000
+        "religion": "Christianity"
     },
     {
         "country": "Nicaragua",
-        "population": 6465513
+        "religion": "Christianity"
     },
     {
         "country": "Niger",
-        "population": 22442948
+        "religion": "Islam"
     },
     {
         "country": "Nigeria",
-        "population": 195874740
+        "religion": "Christianity"
     },
     {
         "country": "Niue",
-        "population": 1624
+        "religion": "Christianity"
     },
     {
-        "country": "Norfolk Island",
-        "population": 2169
+        "country": "North America",
+        "religion": "Christianity"
     },
     {
         "country": "North Korea",
-        "population": 25549819
-    },
-    {
-        "country": "Northern Ireland",
-        "population": 1885400
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "Northern Mariana Islands",
-        "population": 56882
+        "religion": "Christianity"
     },
     {
         "country": "Norway",
-        "population": 5311916
+        "religion": "Christianity"
     },
     {
         "country": "Oman",
-        "population": 4829483
+        "religion": "Islam"
     },
     {
         "country": "Pakistan",
-        "population": 212215030
+        "religion": "Islam"
     },
     {
         "country": "Palau",
-        "population": 17907
+        "religion": "Christianity"
     },
     {
         "country": "Palestine",
-        "population": 4569087
+        "religion": "Islam"
     },
     {
         "country": "Panama",
-        "population": 4176873
+        "religion": "Christianity"
     },
     {
         "country": "Papua New Guinea",
-        "population": 8606316
+        "religion": "Christianity"
     },
     {
         "country": "Paraguay",
-        "population": 6956071
+        "religion": "Christianity"
     },
     {
         "country": "Peru",
-        "population": 31989256
+        "religion": "Christianity"
     },
     {
         "country": "Philippines",
-        "population": 106651922
-    },
-    {
-        "country": "Pitcairn",
-        "population": 67
+        "religion": "Christianity"
     },
     {
         "country": "Poland",
-        "population": 37974750
+        "religion": "Christianity"
     },
     {
         "country": "Portugal",
-        "population": 10283822
+        "religion": "Christianity"
     },
     {
         "country": "Puerto Rico",
-        "population": 3195153
+        "religion": "Christianity"
     },
     {
         "country": "Qatar",
-        "population": 2781677
+        "religion": "Islam"
     },
     {
         "country": "Reunion",
-        "population": 859959
+        "religion": "Christianity"
     },
     {
         "country": "Romania",
-        "population": 19466145
+        "religion": "Christianity"
     },
     {
-        "country": "Russian Federation",
-        "population": 144478050
+        "country": "Russia",
+        "religion": "Christianity"
     },
     {
         "country": "Rwanda",
-        "population": 12301939
+        "religion": "Christianity"
     },
     {
         "country": "Saint Helena",
-        "population": 6600
+        "religion": "Christianity"
     },
     {
         "country": "Saint Kitts and Nevis",
-        "population": 52441
+        "religion": "Christianity"
     },
     {
         "country": "Saint Lucia",
-        "population": 181889
+        "religion": "Christianity"
     },
     {
         "country": "Saint Pierre and Miquelon",
-        "population": 5888
+        "religion": "Christianity"
     },
     {
         "country": "Saint Vincent and the Grenadines",
-        "population": 110210
+        "religion": "Christianity"
     },
     {
         "country": "Samoa",
-        "population": 196130
+        "religion": "Christianity"
     },
     {
         "country": "San Marino",
-        "population": 33785
+        "religion": "Christianity"
     },
     {
         "country": "Sao Tome and Principe",
-        "population": 211028
+        "religion": "Christianity"
     },
     {
         "country": "Saudi Arabia",
-        "population": 33699947
-    },
-    {
-        "country": "Scotland",
-        "population": 5424800
+        "religion": "Islam"
     },
     {
         "country": "Senegal",
-        "population": 15854360
+        "religion": "Islam"
     },
     {
         "country": "Serbia",
-        "population": 6963764	
+        "religion": "Christianity"
     },
     {
         "country": "Seychelles",
-        "population": 96762
+        "religion": "Christianity"
     },
     {
         "country": "Sierra Leone",
-        "population": 7650154
+        "religion": "Islam"
     },
     {
         "country": "Singapore",
-        "population": 5638676
+        "religion": "Buddhism"
+    },
+    {
+        "country": "Sint Maarten (Dutch part)",
+        "religion": "Christianity"
     },
     {
         "country": "Slovakia",
-        "population": 5446771
+        "religion": "Christianity"
     },
     {
         "country": "Slovenia",
-        "population": 2073894
+        "religion": "Christianity"
     },
     {
         "country": "Solomon Islands",
-        "population": 652858
+        "religion": "Christianity"
     },
     {
         "country": "Somalia",
-        "population": 15008154
+        "religion": "Islam"
     },
     {
         "country": "South Africa",
-        "population": 57779622
-    },
-    {
-        "country": "South Georgia and the South Sandwich Islands",
-        "population": 30
+        "religion": "Christianity"
     },
     {
         "country": "South Korea",
-        "population": 51606633
+        "religion": "Unaffiliated Religions"
     },
     {
         "country": "South Sudan",
-        "population": 10975920
+        "religion": "Christianity"
     },
     {
         "country": "Spain",
-        "population": 46796540
+        "religion": "Christianity"
     },
     {
-        "country": "SriLanka",
-        "population": 21670000
+        "country": "Sri Lanka",
+        "religion": "Buddhism"
+    },
+    {
+        "country": "Sub-Saharan Africa",
+        "religion": "Christianity"
     },
     {
         "country": "Sudan",
-        "population": 41801533
+        "religion": "Islam"
     },
     {
         "country": "Suriname",
-        "population": 575991
-    },
-    {
-        "country": "Svalbard and Jan Mayen",
-        "population": 2572
+        "religion": "Christianity"
     },
     {
         "country": "Swaziland",
-        "population": 1136191
+        "religion": "Christianity"
     },
     {
         "country": "Sweden",
-        "population": 10175214
+        "religion": "Christianity"
     },
     {
         "country": "Switzerland",
-        "population": 8513227
+        "religion": "Christianity"
     },
     {
         "country": "Syria",
-        "population": 16906283
+        "religion": "Islam"
+    },
+    {
+        "country": "Taiwan",
+        "religion": "Folk Religions"
     },
     {
         "country": "Tajikistan",
-        "population": 9100837
+        "religion": "Islam"
     },
     {
         "country": "Tanzania",
-        "population": 56318348
+        "religion": "Christianity"
     },
     {
         "country": "Thailand",
-        "population": 69428524
+        "religion": "Buddhism"
     },
     {
-        "country": "The Democratic Republic of Congo",
-        "population": 84068091
+        "country": "Timor",
+        "religion": "Christianity"
     },
     {
         "country": "Togo",
-        "population": 7889094
+        "religion": "Christianity"
     },
     {
         "country": "Tokelau",
-        "population": 1411
+        "religion": "Christianity"
     },
     {
         "country": "Tonga",
-        "population": 103197
+        "religion": "Christianity"
     },
     {
         "country": "Trinidad and Tobago",
-        "population": 1389858
+        "religion": "Christianity"
     },
     {
         "country": "Tunisia",
-        "population": 11565204
+        "religion": "Islam"
     },
     {
         "country": "Turkey",
-        "population": 82319724
+        "religion": "Islam"
     },
     {
         "country": "Turkmenistan",
-        "population": 5850908
+        "religion": "Islam"
     },
     {
         "country": "Turks and Caicos Islands",
-        "population": 37665
+        "religion": "Christianity"
     },
     {
         "country": "Tuvalu",
-        "population": 11508
+        "religion": "Christianity"
     },
     {
         "country": "Uganda",
-        "population": 42723139
+        "religion": "Christianity"
     },
     {
         "country": "Ukraine",
-        "population": 44622516
+        "religion": "Christianity"
     },
     {
         "country": "United Arab Emirates",
-        "population": 9630959
+        "religion": "Islam"
     },
     {
         "country": "United Kingdom",
-        "population": 66460344
+        "religion": "Christianity"
     },
     {
         "country": "United States",
-        "population": 326687501
+        "religion": "Christianity"
     },
     {
-        "country": "United States Minor Outlying Islands",
-        "population": 300
+        "country": "United States Virgin Islands",
+        "religion": "Christianity"
     },
     {
         "country": "Uruguay",
-        "population": 3449299
+        "religion": "Christianity"
     },
     {
         "country": "Uzbekistan",
-        "population": 32955400
+        "religion": "Islam"
     },
     {
         "country": "Vanuatu",
-        "population": 292680
+        "religion": "Christianity"
+    },
+    {
+        "country": "Vatican",
+        "religion": "Christianity"
     },
     {
         "country": "Venezuela",
-        "population": 28870195
+        "religion": "Christianity"
     },
     {
         "country": "Vietnam",
-        "population": 95540395
-    },
-    {
-        "country": "Virgin Islands, British",
-        "population": 29802
-    },
-    {
-        "country": "Virgin Islands, U.S.",
-        "population": 106977
-    },
-    {
-        "country": "Wales",
-        "population": 3139000
+        "religion": "Folk Religions"
     },
     {
         "country": "Wallis and Futuna",
-        "population": 15289
+        "religion": "Christianity"
     },
     {
         "country": "Western Sahara",
-        "population": 652271
+        "religion": "Islam"
     },
     {
         "country": "Yemen",
-        "population": 28498687
+        "religion": "Islam"
     },
     {
         "country": "Zambia",
-        "population": 17351822
+        "religion": "Christianity"
     },
     {
         "country": "Zimbabwe",
-        "population": 14439018
+        "religion": "Christianity"
     }
 ]

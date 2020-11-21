@@ -26,6 +26,7 @@ $ git clone https://github.com/samayo/country-json
 - [Country by Continent](https://github.com/samayo/country-json/blob/master/src/country-by-continent.json)
 - [Country by Costline](https://github.com/samayo/country-json/blob/master/src/country-by-costline.json)
 - [Country by Currency Name](https://github.com/samayo/country-json/blob/master/src/country-by-currency-name.json)
+- [Country by Religion](https://github.com/samayo/country-json/blob/master/src/country-by-religion.json)
 - [Country by Currency Code](https://github.com/samayo/country-json/blob/master/src/country-by-currency-code.json)
 - [Country by Domain Tld](https://github.com/samayo/country-json/blob/master/src/country-by-domain-tld.json)
 - [Country by Elevation](https://github.com/samayo/country-json/blob/master/src/country-by-elevation.json)
@@ -46,39 +47,29 @@ $ git clone https://github.com/samayo/country-json
 - [Country by Yearly Average Temperature](https://github.com/samayo/country-json/blob/master/src/country-by-yearly-average-temperature.json)
 
 ### Usage
-Examples using various languages on how display/integrate the data. 
+Examples using various languages on how display/integrate the data.
 
-##### PHP 
-```php 
-$file = file_get_contents("./src/country-capital-city.json");
+##### PHP
+```php
+$file = file_get_contents("./src/country-by-capital-city.json");
 
 foreach (json_decode($file, true) as $key => $value) {
   var_dump($value); // { country: 'Afghanistan', city: 'Kabul' ..}
-} 
+}
 ```
 
 ##### Node.js
 ```javascript
-var fs = require('fs');
+var cities = require('./src/country-by-capital-city.json')
 
-fs.readFile('./src/country-capital-city.json', 'utf8', function(err, cities) {
-
-  try {
-    cities = JSON.parse(cities);
-  } catch (e) {
-    console.log('error parsing JSON', e);
-  }
-
-  console.log(cities[0]); // { country: 'Afghanistan', city: 'Kabul' }
-
-});
+console.log(cities[0]); // { country: 'Afghanistan', city: 'Kabul' }
 ```
 
 ##### Ruby
 ```ruby
 require 'json'
 
-file = File.read('./src/country-capital-city.json')
+file = File.read('./src/country-by-capital-city.json')
 json = JSON.parse(file)
 
 puts json[0] # {"country"=>"Afghanistan", "city"=>"Kabul"}
@@ -88,7 +79,7 @@ puts json[0] # {"country"=>"Afghanistan", "city"=>"Kabul"}
 ```python
 import yaml
 
-with open('./src/country-capital-city.json') as json_file:
+with open('./src/country-by-capital-city.json') as json_file:
     for line in yaml.safe_load(json_file):
         print line # {'country': 'Afghanistan', 'city': 'Kabul'}
 ```
@@ -105,7 +96,7 @@ import (
 )
 
 func main() {
-  data, err := ioutil.ReadFile("path/to/country-capital-city.json")
+  data, err := ioutil.ReadFile("path/to/country-by-capital-city.json")
   if err != nil {
     panic(err)
   }
@@ -120,15 +111,15 @@ func main() {
   }
 }
 
-```  
+```
 
 
 
 
 
 ### Contribution
-Feel free to send a PR to fix, update or add new entry anytime.    
-For non-minor changes (ex: country: name, language, city, independence date..), please include a source, if possible. 
+Feel free to send a PR to fix, update or add new entry anytime.
+For non-minor changes (ex: country: name, language, city, independence date..), please include a source, if possible.
 
 ### Resources
-- [Processing country-json data with ramda-cli](https://github.com/raine/ramda-cli/wiki/Cookbook#playing-around-with-countryjson-data)    
+- [Processing country-json data with ramda-cli](https://github.com/raine/ramda-cli/wiki/Cookbook#playing-around-with-countryjson-data)
